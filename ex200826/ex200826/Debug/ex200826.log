@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Administrator\source\repos\C++언어\ex200826\ex200826\Main.cpp(26,18): error C2660: 'f2': 함수는 1개의 인수를 사용하지 않습니다.
+C:\Users\Administrator\source\repos\C++언어\ex200826\ex200826\Main.cpp(14,6): message : 'f2' 선언을 참조하십시오.
+C:\Users\Administrator\source\repos\C++언어\ex200826\ex200826\Main.cpp(27,19): error C2660: 'f2': 함수는 1개의 인수를 사용하지 않습니다.
+C:\Users\Administrator\source\repos\C++언어\ex200826\ex200826\Main.cpp(14,6): message : 'f2' 선언을 참조하십시오.
